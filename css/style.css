@@ -1,0 +1,11 @@
+body{
+    background-color: #EAF6F6;
+}
+hr{
+    margin:30px auto 30px auto;
+    width: 5%;
+    background-color: #EAF6F6; 
+    border: 10px dotted gray;
+    border-bottom: none;
+}
+ 
