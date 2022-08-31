@@ -8,4 +8,6 @@ hr{
     border: 10px dotted gray;
     border-bottom: none;
 }
- 
+h1,h3{
+    color:#319DA0;
+}
